@@ -1,0 +1,24 @@
+{
+  "name": "LOCA - Localizador de Auto",
+  "short_name": "LOCA",
+  "description": "Tu asistente localizador de auto",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#181a1f",
+  "theme_color": "#00c896",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
